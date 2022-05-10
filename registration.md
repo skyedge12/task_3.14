@@ -1,3 +1,5 @@
+[<к содержанию](./readme.md)
+
 ## GitHub
 
 **Регистрация на github.com*
